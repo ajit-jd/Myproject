@@ -5,6 +5,7 @@
 using namespace std;
 int main(int argc, char const *argv[])
 {
+	//this is random making
 	int a;
 	int lower = 10;
 	int upp = 20;
